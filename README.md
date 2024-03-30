@@ -1,4 +1,4 @@
 # XGlass
-An MR Glasses like Meta Quest 3 but smaller.
+Nreal air + Apple vision pro
 
 Nothing written now so just wait.
